@@ -1,4 +1,4 @@
-# ruby-inputs-and-outputs
+# Ruby: inputs and outputs
 
 ## Explanation:
 
